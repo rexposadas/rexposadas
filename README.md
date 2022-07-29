@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 I'm temporarily in the Philippines
+
+🔭 I'm Looking to join others in starting an open source project. I prefer coding in Golang.
+
 📫 How to reach me: 
 
 - rexposadas@gmail.com
+- https://www.linkedin.com/in/rexposadas
