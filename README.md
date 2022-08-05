@@ -1,27 +1,19 @@
 ### Hi there 👋
 
 ```go
-type Me struct {
-	Name           string
-	From, LivesIn  string
-	FavoriteThings map[string][]string
-}
-
-func main() {
-	me := Me{
+	me := struct {
+		Name, From, LivesIn string
+		Favorites           map[string][]string
+		Sports              []string
+	}{
 		Name:    "Rex Posadas",
 		From:    "USA",
 		LivesIn: "Philippines",
+		Favorites: map[string][]string{
+			"food":       {"Korean", "Filipino"},
+			"past_times": {"reading", "sitting in coffee shops"},
+		},
+		Sports: []string{"golf", "biking", "BJJ"},
 	}
-
-	favorites := map[string][]string{
-		"food":       {"Korean", "Filipino"},
-		"past_times": {"reading", "sitting coffee shops"},
-	}
-
-	me.FavoriteThings = favorites
-
-	log.Printf("%+v", me)
-}
 
 ```
