@@ -1,25 +1,27 @@
 ### Hi there 👋
 
-<!--
-**rexposadas/rexposadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```go
+type Me struct {
+	Name           string
+	From, LivesIn  string
+	FavoriteThings map[string][]string
+}
 
-Here are some ideas to get you started:
+func main() {
+	me := Me{
+		Name:    "Rex Posadas",
+		From:    "USA",
+		LivesIn: "Philippines",
+	}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	favorites := map[string][]string{
+		"food":       {"Korean", "Filipino"},
+		"past_times": {"reading", "sitting coffee shops"},
+	}
 
-🔭 I'm temporarily in the Philippines
+	me.FavoriteThings = favorites
 
-🔭 I'm Looking to join others in starting an open source project. I prefer coding in Golang.
+	log.Printf("%+v", me)
+}
 
-📫 How to reach me: 
-
-- rexposadas@gmail.com
-- https://www.linkedin.com/in/rexposadas
+```
