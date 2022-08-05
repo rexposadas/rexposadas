@@ -1,19 +1,22 @@
 ### Hi there 👋
 
 ```go
-	me := struct {
+me := struct {
 		Name, From, LivesIn string
-		Favorites           map[string][]string
-		Sports              []string
+		FavoriteLanguages   []string
+		MiscFavorites       map[string][]string
 	}{
 		Name:    "Rex Posadas",
 		From:    "USA",
 		LivesIn: "Philippines",
-		Favorites: map[string][]string{
+
+		FavoriteLanguages: []string{"Go", "Elixir"},
+
+		MiscFavorites: map[string][]string{
 			"food":       {"Korean", "Filipino"},
 			"past_times": {"reading", "sitting in coffee shops"},
+			"sports":     {"golf", "biking", "bjj"},
 		},
-		Sports: []string{"golf", "biking", "BJJ"},
 	}
 
 ```
