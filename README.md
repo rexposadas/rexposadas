@@ -21,4 +21,4 @@ me := struct {
 
 ```
 
-Credit where credit is due, this idea come from [@BretFisher's](https://github.com/BretFisher) README.
+Credit where credit is due, this idea came from [@BretFisher's](https://github.com/BretFisher) README.
