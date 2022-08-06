@@ -14,7 +14,7 @@ me := struct {
 
 		MiscFavorites: map[string][]string{
 			"food":       {"Korean", "Filipino"},
-			"past_times": {"reading", "sitting in coffee shops"},
+			"past_times": {"reading", "chilling in coffee shops"},
 			"sports":     {"golf", "biking", "bjj"},
 		},
 	}
