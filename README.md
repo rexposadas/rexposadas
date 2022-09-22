@@ -3,22 +3,21 @@
 ```go
 me := struct {
 		Name, From, LivesIn string
-		FavoriteLanguages   []string
-		MiscFavorites       map[string][]string
+		Tech                []string
+		FavoriteThings      []string
 	}{
 		Name:    "Rex Posadas",
 		From:    "USA",
 		LivesIn: "Philippines",
 
-		FavoriteLanguages: []string{"Go", "Elixir"},
+		Tech: []string{"Go", "Elixir", "microservices", "REST APIs"},
 
-		MiscFavorites: map[string][]string{
-			"food":       {"Korean", "Filipino"},
-			"past_times": {"reading", "chilling in coffee shops"},
-			"sports":     {"golf", "biking", "bjj"},
+		FavoriteThings: []string{
+			"Korean & Filipino food",
+			"Reading", "Coffee shops",
+			"Golf", "Biking",
 		},
 	}
-
 ```
 
 Credit where credit is due, this idea came from [@BretFisher's](https://github.com/BretFisher) README.
