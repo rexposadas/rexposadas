@@ -1,23 +1,16 @@
 ### Hi there 👋
 
-```go
-me := struct {
-		Name, From, LivesIn string
-		Tech                []string
-		FavoriteThings      []string
-	}{
-		Name:    "Rex Posadas",
-		From:    "USA",
-		LivesIn: "Philippines",
+```toml
 
-		Tech: []string{"Go", "Elixir", "microservices", "REST APIs"},
+[General]
+Name = "Rex Posadas"
+From  = "Austin, TX"
+CurrentResidense = "Philippines"
 
-		FavoriteThings: []string{
-			"Korean & Filipino food",
-			"Reading", "Coffee shops",
-			"Golf", "Biking",
-		},
-	}
+[Favorites]
+Tech = ["Go", "Elixir", "Microservices", "REST APIs"]
+Food = ["Korean", "Filipino"]
+Hobbies = ["reading", "chilling in coffee shops", "generated art", "golf"]
 ```
 
 Credit where credit is due, this idea came from [@BretFisher's](https://github.com/BretFisher) README.
