@@ -8,7 +8,7 @@ From  = "Austin, TX"
 CurrentResidense = "Philippines"
 
 [Favorites]
-Tech = ["Go", "Elixir", "Microservices", "REST APIs"]
+Tech = ["Go", "Generated Art", "JavaScript", "Microservices", "REST APIs"]
 Food = ["Korean", "Filipino"]
 Hobbies = ["reading", "chilling in coffee shops", "generated art", "golf"]
 ```
