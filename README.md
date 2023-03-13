@@ -7,8 +7,12 @@ Name = "Rex Posadas"
 From  = "Austin, TX"
 CurrentResidense = "Philippines"
 
-[Favorites]
-Tech = ["Go", "JavaScript", "Express", "MongoDB","PostgreSQL", "Generated Art",  "Microservices", "REST APIs"]
+[Tech]
+Languages = ["Go", "JavaScript", "Express", "Generated Art"]
+Storage = ["PostgreSQL", "MongoDB", "Redis", "S3", "MySQL"]
+Other = ["REST API","Microservices", "Express", "Generated Art"]
+
+[Other]
 Food = ["Korean", "Filipino"]
 Hobbies = ["reading", "chilling in coffee shops", "generated art", "golf"]
 ```
