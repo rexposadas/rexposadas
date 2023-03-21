@@ -5,7 +5,7 @@
 [General]
 Name = "Rex Posadas"
 From  = "Austin, TX"
-CurrentResidense = "Philippines"
+CurrentResidence = "Philippines"
 
 [Tech]
 Languages = ["Go", "JavaScript", "Express", "Generated Art"]
