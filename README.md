@@ -8,7 +8,7 @@ From  = "Austin, TX"
 CurrentResidence = "Philippines"
 
 [Tech]
-Languages = ["Go", "JavaScript", "Express", "Generated Art"]
+Languages = ["Go", "JavaScript"]
 Storage = ["PostgreSQL", "MongoDB", "Redis", "S3", "MySQL"]
 Other = ["REST API","Microservices", "Express", "Generated Art"]
 
