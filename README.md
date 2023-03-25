@@ -10,7 +10,7 @@ CurrentResidence = "Philippines"
 [Tech]
 Languages = ["Go", "JavaScript"]
 Storage = ["PostgreSQL", "MongoDB", "Redis", "S3", "MySQL"]
-AWS = ["Fargate", "RDS"]
+Infrastructure = ["AWS Fargate", "AWS RDS", "Heroku"]
 Other = ["REST API", "Microservices", "Express", "Generated Art"]
 
 [Other]
