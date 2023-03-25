@@ -10,7 +10,8 @@ CurrentResidence = "Philippines"
 [Tech]
 Languages = ["Go", "JavaScript"]
 Storage = ["PostgreSQL", "MongoDB", "Redis", "S3", "MySQL"]
-Other = ["REST API","Microservices", "Express", "Generated Art"]
+AWS = ["Fargate", "RDS"]
+Other = ["REST API", "Microservices", "Express", "Generated Art"]
 
 [Other]
 Food = ["Korean", "Filipino"]
