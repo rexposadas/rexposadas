@@ -1,7 +1,4 @@
-### Hi there 👋
-
 ```toml
-
 [General]
 Name = "Rex Posadas"
 From  = "Austin, TX"
