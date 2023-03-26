@@ -16,6 +16,9 @@ Other = ["Heroku", "Hugo", "REST API", "Microservices", "Express", "Generated Ar
 [Other]
 Food = ["Korean", "Filipino"]
 Hobbies = ["reading", "chilling in coffee shops", "generated art", "golf"]
+
 ```
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rexposadas)](https://github.com/rexposadas/github-profile-trophy)
 
 Credit where credit is due, this idea came from [@BretFisher's](https://github.com/BretFisher) README.
