@@ -1,5 +1,6 @@
 ```toml
-[Click me to Buy me Coffee!](https://withkoji.com/@rexposadas)
+[Drinks]
+https://withkoji.com/@rexposadas
 
 [General]
 Name = "Rex Posadas"
