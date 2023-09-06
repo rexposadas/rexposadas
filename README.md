@@ -1,7 +1,7 @@
 ```toml
 [Send me coffee]
 
-https://withkoji.com/@rexposadas
+SencCoffee = https://withkoji.com/@rexposadas
 
 [General]
 Name = "Rex Posadas"
