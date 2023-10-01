@@ -1,12 +1,18 @@
 ```toml
 
 [Send me coffee]
-SendCoffee = "https://withkoji.com/@rexposadas"
+send_coffee = "https://withkoji.com/@rexposadas"
 
 [General]
-Name = "Rex Posadas"
-From  = "Austin, TX"
-CurrentResidence = "Philippines"
+name = "Rex Posadas"
+from  = "Texas, USA"
+current_residence = "The Philippines"
+
+[Achievements]
+2022 - Industry Mentor - Oregon State Univesity
+2018 - Contributed to business acquisition
+2014 - Co-founded ag-tech startup which became a finalist to SXSW (Tech festival in Austin, TX)
+Age 14 - Hacked video game to give myself infinite lives.
 
 [Tech]
 Languages = ["Go", "Python", "JavaScript", "Dart"]
