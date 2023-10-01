@@ -8,7 +8,7 @@ current_residence = "The Philippines"
 2022 = "Industry Mentor - Oregon State Univesity"
 2018 = "Contributed to business acquisition"
 2014 = "Startup cofounder"
-age_14 = "Hacked video game to give myself infinite lives."
+age_14 = "Hacked video game to gain infinite lives."
 
 
 [Tech]
