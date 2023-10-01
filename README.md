@@ -9,10 +9,10 @@ From  = "Austin, TX"
 CurrentResidence = "Philippines"
 
 [Tech]
-Languages = ["Go", "JavaScript"]
+Languages = ["Go", "Python", "JavaScript", "Dart"]
 Storage = ["PostgreSQL", "MongoDB", "Redis", "S3", "MySQL"]
-AWS = ["Fargate", "RDS"]
-Other = ["Heroku", "Hugo", "REST API", "Microservices", "Express","mockery", "Generated Art"]
+AWS = ["ECS Fargate", "RDS"]
+Other = ["Flutter", "k8s", "Docker", "Heroku", "Hugo", "REST API", "Microservices", "Express","mockery", "Generated Art"]
 ```
 [![trophy](https://github-profile-trophy.vercel.app/?username=rexposadas&theme=onedark)](https://github.com/rexposadas/github-profile-trophy)
 
