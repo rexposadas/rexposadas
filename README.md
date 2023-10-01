@@ -12,10 +12,10 @@ age_14 = "Hacked video game to gain infinite lives."
 
 
 [Tech]
-Languages = ["Go", "Python", "JavaScript", "Dart"]
-Storage = ["PostgreSQL", "MongoDB", "Redis", "S3", "MySQL"]
-AWS = ["ECS Fargate", "RDS"]
-Other = ["Flutter", "k8s", "Docker", "Heroku", "Hugo", "REST API", "Microservices", "Express","mockery", "Generated Art"]
+languages = ["Go", "Python", "JavaScript", "Dart"]
+storage = ["PostgreSQL", "MongoDB", "Redis", "S3", "MySQL"]
+aws = ["ECS Fargate", "RDS"]
+other = ["Flutter", "k8s", "Docker", "Heroku", "Hugo", "REST API", "Microservices", "Express","mockery", "Generated Art"]
 
 [Send coffee]
 send_coffee = "https://withkoji.com/@rexposadas"
