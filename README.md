@@ -1,7 +1,7 @@
 ```toml
 
 [Send me coffee]
-SencCoffee = "https://withkoji.com/@rexposadas"
+SendCoffee = "https://withkoji.com/@rexposadas"
 
 [General]
 Name = "Rex Posadas"
