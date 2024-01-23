@@ -1,7 +1,7 @@
 ```toml
 [General]
 name = "Rex Posadas"
-from  = "Texas, USA"
+from  = "California, USA"
 current_residence = "The Philippines"
 
 [Achievements]
