@@ -2,7 +2,6 @@
 [General]
 name = "Rex Posadas"
 from  = "California, USA"
-current_residence = "The Philippines"
 
 [Achievements]
 2022 = "Industry Mentor - Oregon State Univesity"
