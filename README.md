@@ -14,10 +14,7 @@ age_14 = "Hacked video game to gain infinite lives"
 languages = ["Go", "Python", "JavaScript"]
 storage = ["PostgreSQL", "MongoDB"]
 aws = ["ECS Fargate", "RDS"]
-other = ["Django", "k8s", "Docker", "Heroku", "Hugo", "REST API", "Microservices", "Express","mockery", "Generated Art"]
-
-[Send coffee]
-send_coffee = "https://withkoji.com/@rexposadas"
+other = ["Django", "k8s", "Docker", "Heroku", "Hugo", "REST API", "Microservices", "Generated Art"]
 
 ```
 [![trophy](https://github-profile-trophy.vercel.app/?username=rexposadas&theme=onedark)](https://github.com/rexposadas/github-profile-trophy)
