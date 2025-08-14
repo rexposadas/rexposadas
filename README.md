@@ -9,7 +9,7 @@
 
   ## 🚀 Open Source Contributions
 
-  **Core Contributor** to [Attendee](https://github.com/attendee-labs/attendee)
+  **Contributor** to [Attendee](https://github.com/attendee-labs/attendee)
   *Open source API for managing meeting bots on platforms like Zoom and Google Meet*
   
   **Creator** of [attendee-mcp](https://github.com/rexposadas/attendee-mcp)
