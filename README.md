@@ -4,10 +4,10 @@ name = "Rex Posadas"
 from  = "California, USA"
 
 [Achievements]
-- Industry Mentor - Oregon State Univesity
-- Contributed to business acquisition
-- Startup cofounder
-- Hacked video game to gain infinite lives
+Industry Mentor - Oregon State University at the College of Engineering
+Contributed to business acquisition
+Startup cofounder
+Hacked video game to gain infinite lives
 
 [OSS Contributions]
 Contributor to  [https://github.com/attendee-labs/attendee](https://github.com/attendee-labs/attendee) - Attendee is an open source API for managing meeting bots on platforms like Zoom or Google Meet
