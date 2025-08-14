@@ -4,17 +4,15 @@ name = "Rex Posadas"
 from  = "California, USA"
 
 [Achievements]
-2022 = "Industry Mentor - Oregon State Univesity"
-2018 = "Contributed to business acquisition"
-2014 = "Startup cofounder"
-age_14 = "Hacked video game to gain infinite lives"
+- Industry Mentor - Oregon State Univesity
+- Contributed to business acquisition
+- Startup cofounder
+- Hacked video game to gain infinite lives
 
+[OSS Contributions]
+Contributor to  [https://github.com/attendee-labs/attendee](https://github.com/attendee-labs/attendee) - Attendee is an open source API for managing meeting bots on platforms like Zoom or Google Meet
 
-[Tech]
-languages = ["Go", "Python", "JavaScript"]
-storage = ["PostgreSQL", "MongoDB"]
-aws = ["ECS Fargate", "RDS"]
-other = ["Django", "k8s", "Docker", "Heroku", "Hugo", "REST API", "Microservices", "Generated Art"]
+Creator of [https://github.com/[your-username]/attendee-mcp](https://github.com/rexposadas/attendee-mcp) - MCP integration for Attendee
 
 ```
 [![trophy](https://github-profile-trophy.vercel.app/?username=rexposadas&theme=onedark)](https://github.com/rexposadas/github-profile-trophy)
