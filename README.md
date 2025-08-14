@@ -19,5 +19,3 @@
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=rexposadas&theme=onedark)](https://github.com/rexposadas/github-profile-trophy
   )
-
-  *Credit where credit is due, this idea came from [@BretFisher's](https://github.com/BretFisher) README.*
